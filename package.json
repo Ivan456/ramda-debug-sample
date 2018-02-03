@@ -1,0 +1,15 @@
+{
+  "name": "ramda-debug-in-use",
+  "version": "1.0.0",
+  "description": "ramda-debug-in-use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivan",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "ramda-debug": "^0.1.4"
+  }
+}
